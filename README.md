@@ -1,4 +1,4 @@
-# team-management-platform
+# Team-management-platform
 A comprehensive platform for managing student teams, tasks, attendance, meetings, and performance tracking.
 # Team Management Platform
 
@@ -18,4 +18,4 @@ A comprehensive platform for managing student teams, tasks, attendance, meetings
 
 ## Screenshots
 
-![Dashboard](assets/dashboard.png)
+[Dashboard](assets/dashboard.png)
