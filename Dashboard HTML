@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Management Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Team Management Platform</h1>
+
+<div class="card">
+    <h2>Total Members</h2>
+    <p id="members">25</p>
+</div>
+
+<div class="card">
+    <h2>Pending Tasks</h2>
+    <p id="tasks">8</p>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
