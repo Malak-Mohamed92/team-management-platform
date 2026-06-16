@@ -1,0 +1,25 @@
+team-management-platform/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── users.js
+│   │   ├── teams.js
+│   │   └── tasks.js
+│   │
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Team.js
+│   │   └── Task.js
+│
+├── database/
+│   └── db.js
+│
+├── README.md
+│
+└── package.json
