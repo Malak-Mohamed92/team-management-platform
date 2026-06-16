@@ -1,0 +1,15 @@
+class Task {
+    constructor(id, title, assignedTo, deadline) {
+        this.id = id;
+        this.title = title;
+        this.assignedTo = assignedTo;
+        this.deadline = deadline;
+        this.completed = false;
+    }
+
+    completeTask() {
+        this.completed = true;
+    }
+}
+
+module.exports = Task;
