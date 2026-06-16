@@ -1,0 +1,14 @@
+class Team {
+    constructor(id, name, leader) {
+        this.id = id;
+        this.name = name;
+        this.leader = leader;
+        this.members = [];
+    }
+
+    addMember(member) {
+        this.members.push(member);
+    }
+}
+
+module.exports = Team;
